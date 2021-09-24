@@ -1,0 +1,1 @@
+Exaple folder. MUST BE IN MAIN FOLDER NOT IN `FOLDERS`!
